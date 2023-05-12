@@ -4,7 +4,7 @@ NetSquadLA Final Project
 Main Website Link: 
 https://evozims.github.io/NetSquadLAFinal/
 
-There are two pages that this website has:
+There are two additional pages that this website has:
 
 
 1. eCommerce Page: https://evozims.github.io/NetSquadLAFinal/shop.html

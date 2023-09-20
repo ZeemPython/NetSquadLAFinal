@@ -2,7 +2,7 @@
 NetSquadLA Final Project
 
 Main Website Link: 
-https://github.com/ZeemPython/NetSquadLAFinal
+https://zeempython.github.io/NetSquadLAFinal/index.html
 
 There are two additional pages that this website has:
 

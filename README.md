@@ -2,7 +2,7 @@
 NetSquadLA Final Project
 
 Main Website Link: 
-https://evozims.github.io/NetSquadLAFinal/
+https://github.com/ZeemPython/NetSquadLAFinal
 
 There are two additional pages that this website has:
 

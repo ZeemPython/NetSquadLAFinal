@@ -1,5 +1,5 @@
 # NetSquadLAFinal
-NetSquadLA Final Project
+NetSquadLA Final Project - This is a mockup website designed using HTML5, CSS, Bootstrap, and JavaScript. Hosted on GitHub Pages.
 
 Main Website Link: 
 https://zeempython.github.io/NetSquadLAFinal/index.html
